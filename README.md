@@ -1,5 +1,5 @@
 /*
-演示网址 http://tonsir.cn/news
+演示网址 http://tongsir.cn/news
 官网 https://tongsir.cn/
 邮箱 admin@tongsir.cn
 QQ: 1004833686 /81199350
