@@ -112,7 +112,9 @@ header("Location:$url");
 <li id="menu-item-1202" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1202"><a href="index.php">首页</a></li>
 <li id="menu-item-1203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1203"><a href="register.php">新用户注册</a></li>
 <li id="menu-item-1203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1203"><a href="adminlogin.php">管理员登陆</a></li>
-</ul>
+<li id="menu-item-1203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1203"><a href="http://tongsir.cn:8888/share/b8c415a6c52245b4dfdb0032a3c8ba5adb7f9a0743a624f29095e911231ceb0c">本站源码下载</a></li>
+  
+  </ul>
 </div>
 </div>
 </nav>
